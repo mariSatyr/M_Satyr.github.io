@@ -1,5 +1,4 @@
-## Developer Portfolio Landing Page Template
-
+## Maura Sateriale
 ### Introduction
 
 Here is my data science portfolio! Hooray!
